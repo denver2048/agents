@@ -1,0 +1,15 @@
+.venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pytype/
+.pyre/
+.pyc
+.pyo
+.pyd
